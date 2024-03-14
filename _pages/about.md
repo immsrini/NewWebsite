@@ -25,7 +25,7 @@ Before relocating to the United States, I worked in Toronto as a Senior Data Sci
 
 As the Lead ML Architect at Paytm Labs in Canada, I spearheaded advanced machine learning projects. Before this, as a Senior Architect at NVIDIA, Bangalore, I collaborated with a team of researchers and engineers, developing deep learning models, platforms, and pipelines optimized for GPU-based training and inferencing.
 
-In the early stages of my career, I co-founded Market Learning Labs, developing developer tools for computer vision and NLP applications. Despite its eventual failure due to non-viable market fit, this experience was invaluable. My career began as a Research Assistant at the Indian Institute of Science, Bangalore, where I worked on OCR and TTS systems for Indic languages.
+In the early stages of my career, I co-founded Market Learning Labs, building developer tools for computer vision and NLP applications. Despite its eventual failure due to non-viable market fit, this experience was invaluable. My career began as a Research Assistant at the Indian Institute of Science, Bangalore, where I worked on OCR and TTS systems for Indic languages.
 
 For over a decade, I have been an engaged IEEE volunteer, dedicating my efforts to the scientific community. I previously held the role of Vice-Chair for the Membership Development Committee in IEEE Region 7 (Canada). In 2020, I was elevated to the status of Senior Member (SMIEEE).
 
@@ -49,7 +49,7 @@ original_string = "mukundhan"
 new_string = remove_last_three(original_string)
 print(new_string) #replace output to get username for email address
 ```
-
+<br>
 <hr />
 
 <p>Past Research Colaborators: <a href="https://www.cse.iitm.ac.in/~miteshk/" target="\_blank">Prof. Mitesh Khapara</a> and <a href="https://www.cse.iitm.ac.in/~ravi/" target="\_blank">Prof. Balaraman Ravindran</a>, IIT Madras; <a href="http://cds.iisc.ac.in/faculty/venky/" target="\_blank">Prof. Venkatesh Babu</a>, IISc Bangalore; <a href="https://www.cse.iitk.ac.in/users/vinaypn/" target="\_blank">Prof. Vinay P Namboodiri</a>, IIT Kanpur; <a href="http://www.facweb.iitkgp.ernet.in/~debdoot/" target="\_blank">Prof. Debdoot Sheet</a>, IIT Kharagpur; <a href="https://profiles.stanford.edu/tavpritesh-sethi" target="\_blank">Dr. Tavpritesh Sethi</a>, Stanford Medical; <a href="https://www.igib.res.in/?q=anuragagrawal" target="\_blank">Prof. Anurag Agrawal</a>, IGIB; <a href="http://www.caring-research.com/" target="\_blank">Dr. Vidur Mahajan</a>, CARING Research</p>
