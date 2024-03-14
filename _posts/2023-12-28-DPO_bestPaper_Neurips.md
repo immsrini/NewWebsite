@@ -59,5 +59,3 @@ For scenarios where there are clear reward structures and the need for efficient
 #### Conclusion
 
 Both DPO and PPO offer unique advantages in the context of fine-tuning LLMs, with their suitability depending on the specific goals and constraints of the application. DPO excels in aligning model outputs with nuanced human preferences, while PPO offers a more general and efficient approach to optimizing model behavior in interactive scenarios.
-
-For a deeper understanding and more specific insights, consulting the latest research papers and case studies in these areas is highly recommended.
