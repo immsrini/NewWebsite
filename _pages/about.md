@@ -2,21 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: Engineering curiosity, code & creativity. Fedrer Fan. Srivaishnavan. Always WIP
+subtitle: Engineering curiosity, code & creativity. Fedrer Fan. WIP Sri Vaishnavan.
 
 profile:
   align: right
   image: profile_img.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>2788 San Tomas Expressway</p>
-    <p>Santa Clara, CA 95051</p>
+    <p></p>
+    <p></p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+<br>
 
 I’m back at NVIDIA in the US for a second innings. Currently, I lead the Generative AI Software business for NVIDIA in North and Latin America.
 
@@ -34,7 +35,16 @@ After Tendulkar and Dravid's retirement, my interest in cricket waned, although 
 
 I used to live in (then beautiful) authentic part of Bangalore closer to CTR’s benne dose and Veena store’s idli chutney before moving to North America. As a Southerner, my fondness for filter kaapi (yes, Kaapi!) is profound, and I'm easily persuaded by a good cup.
 
-You can reach me at mukund AT immsrini DOT com. I have no interest and time to keep social accounts updated. 
+You can reach me at new_string AT immsrini DOT com. I have no interest and time to keep social accounts updated. 
+
+```c++
+def remove_last_three(s):
+    return s[:-3]
+
+original_string = "mukundhan"
+new_string = remove_last_three(original_string)
+print(new_string) 
+```
 
 <hr />
 
