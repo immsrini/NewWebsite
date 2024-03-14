@@ -35,19 +35,21 @@ After Tendulkar and Dravid's retirement, my interest in cricket waned, although 
 
 I used to live in (then beautiful) authentic part of Bangalore closer to CTR’s benne dose and Veena store’s idli chutney before moving to North America. As a Southerner, my fondness for filter kaapi (yes, Kaapi!) is profound, and I'm easily persuaded by a good cup.
 
-You can reach me at new_string AT immsrini DOT com. I have no interest and time to keep social accounts updated. 
+My social media profiles are not a reflection of my current activities or interests due to muted enthusiasm for updates and limited time. I maintain this space for all practical purposes. 
 
-```c++
+You can reach me at new_string AT immsrini DOT com. 
+
+```python
 def remove_last_three(s):
     return s[:-3]
 
 original_string = "mukundhan"
 new_string = remove_last_three(original_string)
-print(new_string) 
+print(new_string) #replace output to get username for email address
 ```
 
 <hr />
 
-<p>Research Colaborators: <a href="https://www.cse.iitm.ac.in/~miteshk/" target="\_blank">Prof. Mitesh Khapara</a> and <a href="https://www.cse.iitm.ac.in/~ravi/" target="\_blank">Prof. Balaraman Ravindran</a>, IIT Madras; <a href="http://cds.iisc.ac.in/faculty/venky/" target="\_blank">Prof. Venkatesh Babu</a>, IISc Bangalore; <a href="https://www.cse.iitk.ac.in/users/vinaypn/" target="\_blank">Prof. Vinay P Namboodiri</a>, IIT Kanpur; <a href="http://www.facweb.iitkgp.ernet.in/~debdoot/" target="\_blank">Prof. Debdoot Sheet</a>, IIT Kharagpur; <a href="https://profiles.stanford.edu/tavpritesh-sethi" target="\_blank">Dr. Tavpritesh Sethi</a>, Stanford Medical; <a href="https://www.igib.res.in/?q=anuragagrawal" target="\_blank">Prof. Anurag Agrawal</a>, IGIB; <a href="http://www.caring-research.com/" target="\_blank">Dr. Vidur Mahajan</a>, CARING Research</p>
+<p>Past Research Colaborators: <a href="https://www.cse.iitm.ac.in/~miteshk/" target="\_blank">Prof. Mitesh Khapara</a> and <a href="https://www.cse.iitm.ac.in/~ravi/" target="\_blank">Prof. Balaraman Ravindran</a>, IIT Madras; <a href="http://cds.iisc.ac.in/faculty/venky/" target="\_blank">Prof. Venkatesh Babu</a>, IISc Bangalore; <a href="https://www.cse.iitk.ac.in/users/vinaypn/" target="\_blank">Prof. Vinay P Namboodiri</a>, IIT Kanpur; <a href="http://www.facweb.iitkgp.ernet.in/~debdoot/" target="\_blank">Prof. Debdoot Sheet</a>, IIT Kharagpur; <a href="https://profiles.stanford.edu/tavpritesh-sethi" target="\_blank">Dr. Tavpritesh Sethi</a>, Stanford Medical; <a href="https://www.igib.res.in/?q=anuragagrawal" target="\_blank">Prof. Anurag Agrawal</a>, IGIB; <a href="http://www.caring-research.com/" target="\_blank">Dr. Vidur Mahajan</a>, CARING Research</p>
 
 <hr/>
