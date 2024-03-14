@@ -19,27 +19,27 @@ social: true # includes social icons at the bottom of the page
 
 <br>
 
-I’m back at NVIDIA in the US for a second innings. Currently, I lead the Generative AI Software business for NVIDIA in North and Latin America.
+I’m back at **[NVIDIA](https://www.nvidia.com/en-us/)** in the US for a second innings. Currently, I lead the Generative AI Software business for NVIDIA in North and Latin America.
 
-Before relocating to the United States, I worked in Toronto as a Senior Data Scientist, specializing in machine learning at datacenter scale. My interests are broadly in machine learning methodologies and system engineering. My past research pursuits included language generation, specifically in dialogue systems for generation and evaluation, as well as concepts of generalization. I have a deep fascination with language.
+Before relocating to the United States, I worked in Toronto as a Senior Data Scientist, specializing in machine learning at datacenter scale. My interests are broadly in machine learning methodologies and system engineering. My past research pursuits included language generation, specifically in dialogue systems for generation and evaluation, as well as concepts of generalization. I have a deep fascination with language. See [publications](https://immsrini.github.io/publications/)
 
 As the Lead ML Architect at Paytm Labs in Canada, I spearheaded advanced machine learning projects. Before this, as a Senior Architect at NVIDIA, Bangalore, I collaborated with a team of researchers and engineers, developing deep learning models, platforms, and pipelines optimized for GPU-based training and inferencing.
 
 In the early stages of my career, I co-founded Market Learning Labs, developing developer tools for computer vision and NLP applications. Despite its eventual failure due to non-viable market fit, this experience was invaluable. My career began as a Research Assistant at the Indian Institute of Science, Bangalore, where I worked on OCR and TTS systems for Indic languages.
 
-For over a decade, I have been an engaged IEEE volunteer, dedicating my efforts to the scientific community. I previously held the role of Vice-Chair for the Membership Development Committee in IEEE Region 7 (Canada). In 2020, I was elevated to the status of Senior Member and successfully completed the VoLT program.
+For over a decade, I have been an engaged IEEE volunteer, dedicating my efforts to the scientific community. I previously held the role of Vice-Chair for the Membership Development Committee in IEEE Region 7 (Canada). In 2020, I was elevated to the status of Senior Member (SMIEEE).
 
-Beyond my professional focus in CS/ML, I am deeply interested in the structure of economies, Bitcoin, the history of societies, the human condition, and South-Indian classical music. Some favorites: Maharajapuram Santhanam, E. Gayathri, Mohammed Rafi \& SPB. I dedicate a significant amount of time to horology and the appreciation of fine writing instruments. 
+Beyond my professional focus in CS/ML, I am deeply interested in the structure of economies, Bitcoin, the history of societies, the human condition, and South-Indian classical music. Some favorites artists: Maharajapuram Santhanam, E. Gayathri, Mohammed Rafi \& SPB. I dedicate a significant amount of time to horology and the appreciation of fine writing instruments. 
 
-I am devoted to studying and practicing Sanatana Dharma and Vishistadvaitam as postulated by Swami Desikan under the Rahasya-traya guruparamparai. 
+I am devoted to studying and practicing Sanatana Dharma and Vishistadvaitam as propounded by Bhashyakarar and Srimad Vedanta Desika under the [Rahasya-traya guruparamparai](https://www.andavan.org/).
 
 After Tendulkar and Dravid's retirement, my interest in cricket waned, although I occasionally catch a test match. I'm a fervent admirer of Federer, particularly his unmatched inside-out forehand. I continue to learn and play chess (mainly because it is another tab in the browser).
 
 I used to live in (then beautiful) authentic part of Bangalore closer to CTR’s benne dose and Veena store’s idli chutney before moving to North America. As a Southerner, my fondness for filter kaapi (yes, Kaapi!) is profound, and I'm easily persuaded by a good cup.
 
-> My social media profiles are not a reflection of my current activities or interests due to muted enthusiasm for updates and limited time. I maintain this space for all practical purposes. Of course, OAMO. 
+> My social media profiles are not a reflection of my current activities or interests due to muted enthusiasm for frequent posts and limited time. I maintain this space for all practical purposes. Of course, OAMO. 
 
-You can reach me at new_string AT immsrini DOT com. 
+You can reach me at new_string AT immsrini DOT com.
 
 ```python
 def remove_last_three(s):
