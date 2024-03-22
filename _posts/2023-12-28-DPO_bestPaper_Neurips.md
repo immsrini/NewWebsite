@@ -2,7 +2,7 @@
 layout: post
 title: DPO v. PPO
 date: 2023-12-28 11:00:16
-description: Clearly one one winner here 
+description: Clearly only one winner here 
 tags: MachineLearning
 ---
 
