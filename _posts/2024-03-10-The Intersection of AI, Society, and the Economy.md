@@ -3,7 +3,7 @@ layout: post
 title: How AI and Large Language Models Forge the Future of Value
 date: 2024-03-10 11:45:00
 description: The Economic Renaissance 
-tags: MachineLearning
+tags: MachineLearning, rants
 ---
 
 I happen to sit next a rather interesting lady on flight out San Jose a few days ago. Of course, almost everyone flying to SJC works in tech and so did she. We had good conversation this is my reflection on the topics we touched. 
