@@ -1,8 +1,8 @@
 ---
 layout: post
-title: lecture on Artha Panchakam
+title: Lecture on Artha Panchakam
 date: 2024-02-25 16:40:16
-description: notes on the five for mumukshus 
+description: Notes on the five for mumukshus 
 tags: vedic
 ---
 
