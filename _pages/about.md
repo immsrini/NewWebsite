@@ -33,11 +33,11 @@ Beyond my professional focus in CS/ML, I am deeply interested in the structure o
 
 I am devoted to studying and practicing Sanatana Dharma and Vishistadvaitam as propounded by Bhashyakarar and Srimad Vedanta Desika under the [Rahasya-traya guruparamparai](https://www.andavan.org/).
 
-After Tendulkar and Dravid's retirement, my interest in cricket waned, although I occasionally catch a test match. I'm a fervent admirer of Federer, particularly his unmatched inside-out forehand. I continue to learn and play chess (mainly because it is another tab in the browser).
+After Tendulkar and Dravid's retirement, my interest in cricket waned, although I occasionally catch a test match. I'm a fervent admirer of Federer, particularly his unmatched inside-out forehand and point/play orchestration. I continue to learn and play chess (mainly because it is another tab in the browser) and recreational tennis.
 
-I used to live in (then beautiful) authentic part of Bangalore closer to CTR’s benne dose and Veena store’s idli chutney before moving to North America. As a Southerner, my fondness for filter kaapi (yes, Kaapi!) is profound, and I'm easily persuaded by a good cup.
+I used to live in (then beautiful) authentic part of Bangalore closer to CTR’s benne dose and Veena store’s idli chutney before moving to North America. As a Southerner, my fondness for an aromatic cup of [filter kaapi](https://en.wikipedia.org/wiki/Indian_filter_coffee) (yes, Kaapi!) is profound, and I'm easily persuaded by a good one.
 
-> My social media profiles are not a reflection of my current activities or interests due to muted enthusiasm for frequent posts and limited time. I maintain this space for all practical purposes. Of course, OAMO. 
+> My social media profiles are not a reflection of my current activities or interests due to muted enthusiasm for frequent posts and limited time. I maintain this space for all practical purposes. Of course, MOAMO. 
 
 You can reach me at new_string AT immsrini DOT com.
 
@@ -49,6 +49,9 @@ original_string = "mukundhan"
 new_string = remove_last_three(original_string)
 print(new_string) #replace output to get username for email address
 ```
+
+***Just a heads up: I'm currently not looking for new job opportunities. This inbox is for personal correspondences only***
+
 <br>
 <hr />
 
