@@ -29,7 +29,7 @@ In the early stages of my career, I co-founded Market Learning Labs, building de
 
 For over a decade, I have been an engaged IEEE volunteer, dedicating my efforts to the scientific community. I previously held the role of Vice-Chair for the Membership Development Committee in IEEE Region 7 (Canada). In 2020, I was elevated to the status of Senior Member (SMIEEE).
 
-Beyond my professional focus in CS/ML, I am deeply interested in the structure of economies, Bitcoin, the history of societies, the human condition, and South-Indian classical music. Some favorites artists: Maharajapuram Santhanam, E. Gayathri, Mohammed Rafi \& SPB. I dedicate a significant amount of time to horology and the appreciation of fine writing instruments. 
+Beyond my professional focus in CS/ML, I am deeply interested in the structure of economies, Bitcoin, the history of societies, the human condition, and South-Indian classical music. Some of my favorite artists: Maharajapuram Santhanam, E. Gayathri, U.Srinivas, Mohammed Rafi, and SPB. I dedicate a significant amount of time to horology and the appreciation of fine writing instruments. 
 
 I am devoted to studying and practicing Sanatana Dharma and Vishistadvaitam as propounded by Bhashyakarar and Srimad Vedanta Desika under the [Rahasya-traya guruparamparai](https://www.andavan.org/).
 
