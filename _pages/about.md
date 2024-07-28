@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Engineering curiosity, code & creativity. Fedrer Fan. WIP Sri Vaishnavan.
+subtitle: Opsimath. Fedrer Fan. Mumukshu.
 
 profile:
   align: right
