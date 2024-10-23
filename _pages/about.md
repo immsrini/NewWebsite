@@ -19,9 +19,9 @@ social: true # includes social icons at the bottom of the page
 
 <br>
 
-I’m back at **[NVIDIA](https://www.nvidia.com/en-us/)** in the US for a second innings. Currently, I lead the Generative AI Software business for NVIDIA in North and Latin America.
+I’m back at **[NVIDIA](https://www.nvidia.com/en-us/)** in the US for a second innings. Currently, I lead the Global Generative AI Software Business for the Nemo Microservices segment. I'm resposible for driving adoption by strategic partners/customers and world-wide go-to-market. 
 
-Before relocating to the United States, I worked in Toronto as a Senior Data Scientist, specializing in machine learning at datacenter scale. My interests are broadly in machine learning methodologies and system engineering. My past research pursuits included language generation, specifically in dialogue systems for generation and evaluation, as well as concepts of generalization. I have a deep fascination with language. See [publications](https://immsrini.github.io/publications/)
+Before relocating to the United States, I worked in Toronto as a Senior Data Scientist, specializing in machine learning at datacenter scale at NVIDIA. My interests are broadly in machine learning methodologies and system engineering. My past research pursuits included language generation, specifically in dialogue systems for generation and evaluation, as well as concepts of generalization. I have a deep fascination with language. See [publications](https://immsrini.github.io/publications/)
 
 As the Lead ML Architect at Paytm Labs in Canada, I spearheaded advanced machine learning projects. Before this, as a Senior Architect at NVIDIA, Bangalore, I collaborated with a team of researchers and engineers, developing deep learning models, platforms, and pipelines optimized for GPU-based training and inferencing.
 
@@ -31,9 +31,9 @@ For over a decade, I have been an engaged IEEE volunteer, dedicating my efforts 
 
 Beyond my professional focus in CS/ML, I am deeply interested in the structure of economies, Bitcoin, the history of societies, the human condition, and South-Indian classical music. Some of my favorite musicians: Maharajapuram Santhanam, E. Gayathri, U.Srinivas, Mohammed Rafi, and SPB. I dedicate a significant amount of time to horology and the appreciation of fine writing instruments. 
 
-I am devoted to studying and practicing Sanatana Dharma and Vishistadvaitam as propounded by Bhashyakarar and Srimad Vedanta Desika under the [Rahasya-traya guruparamparai](https://www.andavan.org/).
+I am devoted to studying and practicing Sanatana Dharma and Vishistadvaitam as propounded by Bhashyakarar and [Srimad Vedanta Desika](https://www.andavan.org/srivaishnavism/srimad-vedanta-desikan/) under the [Rahasya-traya guruparamparai](https://www.andavan.org/).
 
-After Tendulkar and Dravid's retirement, my interest in cricket waned, although I occasionally catch a test match. I'm a fervent admirer of Federer, particularly his unmatched inside-out forehand and point/play orchestration. I continue to learn and play chess (mainly because it is another tab in the browser) and recreational tennis.
+After Tendulkar and Dravid's retirement, my interest in cricket waned, although I occasionally catch a test match. I'm a fervent admirer of Federer, particularly his unmatched inside-out forehand and point orchestration. I continue to learn and play chess (mainly because it is another tab in the browser) and recreational tennis.
 
 I used to live in (then beautiful) authentic part of Bangalore closer to CTR’s benne dose and Veena store’s idli chutney before moving to North America. As a Southerner, my fondness for an aromatic cup of [filter kaapi](https://en.wikipedia.org/wiki/Indian_filter_coffee) (yes, Kaapi!) is profound, and I'm easily persuaded by a good one.
 
